@@ -7,7 +7,7 @@ import Hero_sec from "../Components/hero-section/Hero_sec";
 import Top from "../Components/hero-section/Top";
 import Join from "../Components/Join our circle/Join";
 import Auyerjedic from "../Components/Why-Aurvedic/Auyerjedic";
-import Why_us from "../Components/why-us/why_us";
+import Why_us from "../Components/why-us/Why_us";
 
 export default function Home(){
     return(
